@@ -1,8 +1,8 @@
-# DevOps - Continuous Deployment 
-# Continuous integration repo Link : https://github.com/Sanjo-varghese/DevOps-CI-Petclinic.git
-# Documentation-Petclinc: https://github.com/Sanjo-varghese/Docs-petclinic.git
+# DevOps - Continuous Deployment  steps:
+- Continuous integration repo Link : https://github.com/Sanjo-varghese/DevOps-CI-Petclinic.git
+- Documentation-Petclinc: https://github.com/Sanjo-varghese/Docs-petclinic.git
 
-# Spring_boot PetClinic Sample Application - deployment 
+# Spring_boot PetClinic Sample Application - deployment 👇
 
 <h1 align="center">Hi 👋, I'm sanjo Varghese</h1>
 <h3 align="center">A passionate IT proffesional</h3>
